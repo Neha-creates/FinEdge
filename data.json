@@ -1,0 +1,21 @@
+{
+  "transactions": {
+    "userId1": {
+      "txnId1": {
+        "title": "Grocery Shopping",
+        "amount": -2400,
+        "type": "expense",
+        "category": "Food",
+        "date": "2025-06-01"
+      },
+      "txnId2": {
+        "title": "Salary",
+        "amount": 50000,
+        "type": "income",
+        "category": "Job",
+        "date": "2025-06-01"
+      }
+    }
+  }
+}
+
