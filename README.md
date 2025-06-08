@@ -11,6 +11,14 @@ The app features real-time data sync using **Firebase Realtime Database**, organ
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard & Transaction History
+![Dashboard](/FinEdge/dashboard.png)
+
+### Add Transaction
+![Add Transaction](/FinEdge/add_transaction.png)
+
 ## 📝 Features
 
 ### Dashboard (`/dashboard`)
